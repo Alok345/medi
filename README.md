@@ -54,8 +54,11 @@ This is a simple and clean Inventory/Product Management Flutter app built with *
 ```
 lib/
 ├── addproduct.dart       # Add Product screen
+
 ├── addcategory.dart      # Add Category screen
+
 ├── login_page.dart       # Login with Google or Anonymous
+
 ├── main.dart             # App entry point
 ```
 
