@@ -2,7 +2,9 @@
 ```markdown
 # 🛍️ Flutter Firebase Inventory Management App
 
-This is a simple and clean Inventory/Product Management Flutter app built with **Firebase** for backend services like **Authentication** and **Firestore** for database. The app includes features like Google Sign-In, category management, product addition, and user-specific access.
+This is a simple and clean Inventory/Product Management Flutter app built with **Firebase** for
+backend services like **Authentication** and **Firestore** for database.
+The app includes features like Google Sign-In, category management, product addition, and user-specific access.
 
 ---
 
